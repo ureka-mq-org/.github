@@ -1,7 +1,7 @@
 # 🚀 Ureka MQ Study Group
 
 <p align="center">
-  ureka-mq-org는 다양한 메시지 큐 솔루션을 비교 분석하고, Spring 생태계 기반에서 RabbitMQ와 Kafka의 최적화된 활용 방안을 탐구하는 스터디 조직입니다.
+  ureka-mq-org는 다양한 메시지 큐 솔루션을 비교 분석하고, Spring 기반에서 RabbitMQ와 Kafka의 활용 방안을 탐구하는 스터디 조직입니다.
 </br>
 
 
