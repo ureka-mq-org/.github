@@ -4,7 +4,7 @@
 
 ### ✨ Tech Stack
 
-<div align=left>
+<div align="left">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
@@ -19,16 +19,13 @@
 
 현재 운영 중인 핵심 레포지토리입니다.
 
-### 📖 [core-concept](https://github.com/ureka-mq-org/core-concept)
-* **목적**: MQ와 관련된 전반적인 이론 및 개념 정리
-* **내용**: PGMQ, Redis MQ, RabbitMQ, Kafka 특징 비교 및 브로커별 핵심 동작 원리 학습
-
-### 🛠️ [mq-study](https://github.com/ureka-mq-org/mq-study)
-* **목적**: Spring Boot 기반의 실습 코드와 성능 측정 기록
-* **내용**: RabbitMQ/Kafka 실전 구현 및 최적화 설정(Prefetch, Batch 등)을 통한 성능 향상 검증
+| Repository | Description |
+| :--- | :--- |
+| 📖 **[core-concept](https://github.com/ureka-mq-org/core-concept)** | MQ 관련 이론 정리 (PGMQ, Redis MQ, RabbitMQ, Kafka 비교 및 원리 학습) |
+| 🛠️ **[mq-study](https://github.com/ureka-mq-org/mq-study)** | Spring Boot 기반 실습 코드 및 성능 최적화(Prefetch, Batch 등) 검증 기록 |
 
 ## 🏗️ Roadmap & Upcoming Projects
-* **`[Project-Name]-be`**: Spring Boot 기반 백엔드 서버 (MQ 기반 비동기 로직 및 성능 최적화 적용)
+* **`[Project-Name]-be`**: Spring Boot 기반 백엔드 서버 (MQ 비동기 로직 및 성능 최적화 적용)
 * **`[Project-Name]-fe`**: 프로젝트 서비스 프런트엔드
 
 ---
@@ -41,4 +38,6 @@
 | [@SH-Seol](https://github.com/SH-Seol) | [@HUHGEON](https://github.com/HUHGEON) | [@hana03030](https://github.com/hana03030) | [@llmeajinll](https://github.com/llmeajinll) | [@rudwnlee2](https://github.com/rudwnlee2) | [@UHeeJoon](https://github.com/UHeeJoon) |
 
 ---
-*Last Updated: 2026-04-22*
+<div align="right">
+  <i>Last Updated: 2026-04-22</i>
+</div>
