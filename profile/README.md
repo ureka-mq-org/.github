@@ -1,5 +1,6 @@
 <img width="700" height="200" alt="Image" src="https://github.com/user-attachments/assets/f07ecb1c-23f5-4fb6-b9b0-94c948bbe92f" />
-sapari는 "사고(Buy), 판다(Sell)"라는 의미를 담아, 다양한 메시지 큐 솔루션을 비교 분석하고 실무적인 이커머스 환경에서 RabbitMQ와 Kafka의 활용 방안을 탐구하는 프로젝트 조직입니다.
+
+### sapari는 "사고(Buy), 판다(Sell)"라는 의미를 담아, 다양한 메시지 큐 솔루션을 비교 분석하고 실무적인 이커머스 환경에서 RabbitMQ와 Kafka의 활용 방안을 탐구하는 프로젝트 조직입니다.
 
 
 ---
