@@ -1,8 +1,7 @@
-# 🚀 Ureka MQ Study Group
+# 🐼 sapari (사고 + 판다)
 
-<p align="center">
-  ureka-mq-org는 다양한 메시지 큐 솔루션을 비교 분석하고, Spring 기반에서 RabbitMQ와 Kafka의 활용 방안을 탐구하는 스터디 조직입니다.
-</br>
+
+sapari는 "사고(Buy), 판다(Sell)"라는 의미를 담아, 다양한 메시지 큐 솔루션을 비교 분석하고 실무적인 이커머스 환경에서 RabbitMQ와 Kafka의 활용 방안을 탐구하는 프로젝트 조직입니다.
 
 
 ---
@@ -33,7 +32,7 @@
 
 ---
 
-## 📌 Study Goals
+## 📌 Project Goals
 * 🔍 **MQ Analysis**
   * PGMQ, Redis MQ, RabbitMQ, Kafka 등 솔루션별 핵심 개념 및 특징 파악
 * 🛠️ **Core Implementation**
@@ -44,7 +43,7 @@
 <br/>
 
 ## 📂 Repositories
-> **스터디 내용과 실습 코드는 아래 레포지토리에서 관리됩니다.**
+> **sapari 프로젝트의 이론 정리와 실습 코드는 아래 레포지토리에서 관리됩니다.**
 
 * 📖 **[core-concept](https://github.com/ureka-mq-org/core-concept)**
   * MQ 관련 이론 정리 (솔루션 비교 분석 및 브로커별 핵심 동작 원리 학습)
@@ -54,8 +53,8 @@
 <br/>
 
 ## 🏗️ Roadmap & Upcoming Projects
-* 🔹 **`[Project-Name]-be`**: Spring Boot 기반 백엔드 (MQ 비동기 로직 및 최적화 적용)
-* 🔸 **`[Project-Name]-fe`**: React 기반 서비스 프런트엔드
+* 🔹 **`sapari-be`**: Spring Boot 기반 백엔드 (MQ 비동기 로직 및 최적화 적용)
+* 🔸 **`sapari-fe`**: React 기반 서비스 프런트엔드 (사용자 인터페이스 및 실시간 소통 구현)
 
 <br/>
 
@@ -73,5 +72,5 @@
 
 ---
 <div align="right">
-  <i>Last Updated: 2026-04-22</i>
+  <i>Last Updated: 2026-04-27</i>
 </div>
